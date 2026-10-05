@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.cryptominium/cryptominium",
+  "title": "Cryptominium",
+  "description": "What a crypto position would really sell for: measured exit costs, address and transaction lookups.",
+  "version": "1.0.0",
+  "websiteUrl": "https://cryptominium.com/developers",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cryptominium.com/mcp"
+    }
+  ]
+}

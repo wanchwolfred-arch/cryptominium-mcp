@@ -1,0 +1,15 @@
+{
+  "name": "cryptominium",
+  "version": "1.0.0",
+  "description": "What a crypto position would really sell for: measured exit costs, address and transaction lookups. Read-only.",
+  "author": {
+    "name": "Cryptominium",
+    "email": "hello@cryptominium.com"
+  },
+  "homepage": "https://cryptominium.com/developers",
+  "repository": "https://github.com/wanchwolfred-arch/cryptominium-mcp",
+  "license": "MIT",
+  "keywords": ["crypto", "liquidity", "exit cost", "blockchain", "on-chain", "mcp", "read-only"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}

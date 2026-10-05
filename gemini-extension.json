@@ -1,0 +1,11 @@
+{
+  "name": "cryptominium",
+  "version": "1.0.0",
+  "description": "What a crypto position would really sell for: measured exit costs, address and transaction lookups. Read-only.",
+  "mcpServers": {
+    "cryptominium": {
+      "httpUrl": "https://cryptominium.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
