@@ -3,8 +3,12 @@
   "name": "com.cryptominium/cryptominium",
   "title": "Cryptominium",
   "description": "What a crypto position would really sell for: measured exit costs, address and transaction lookups.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://cryptominium.com/developers",
+  "repository": {
+    "url": "https://github.com/wanchwolfred-arch/cryptominium-mcp",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
